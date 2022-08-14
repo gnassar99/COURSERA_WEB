@@ -8,11 +8,23 @@ h1 {
     margin-bottom: 80px;
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;    
   }
+  
 
 /* Paragraph styles */  
+
+p{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color:black;
+  margin-top: 50px;
+  text-align: left;
+  margin-left: 3px;
+  margin-right: 3px;  
+  font-size: 20px;
+}
 .chicken {
-    border: 3px solid rgb(0, 0, 0);
+    border: 1px solid rgb(0, 0, 0);
     background-color: #0894407a;
     width: auto;
     height: auto;    
@@ -23,13 +35,14 @@ h1 {
     font-size: x-large;
     text-align: center;    
     float: right;
-    padding: 2px;
-    margin-top: -3px;
-    margin-right: -3px;
+    padding: 5px;
+    margin-top: -1px;
+    margin-right: -1px;
+    font-size: 30px;
   }
 
   .beef {
-    border: 3px solid rgb(0, 0, 0);
+    border: 1px solid rgb(0, 0, 0);
     background-color: #962300fe;
     width: auto;
     height: auto;    
@@ -40,13 +53,14 @@ h1 {
     font-size: x-large;
     text-align: center;  
     float: right;    
-    padding: 2px;
-    margin-top: -3px;
-    margin-right: -3px;
+    padding: 5px;
+    margin-top: -1px;
+    margin-right: -1px;
+    font-size: 30px;
   }
 
-  .sushi {
-    border: 3px solid rgb(0, 0, 0);
+  .pasta {
+    border: 1px solid rgb(0, 0, 0);
     background-color: #7a00a3fe;
     width: auto;
     height: auto;    
@@ -57,9 +71,10 @@ h1 {
     font-size: x-large;
     text-align: center;    
     float: right;
-    padding: 2px;
-    margin-top: -3px;
-    margin-right: -3px;
+    padding: 5px;
+    margin-top: -1px;
+    margin-right: -1px;
+    font-size: 30px;
   }
 
 
@@ -70,7 +85,7 @@ h1 {
 
 .menu
   {        
-    border: 3px solid rgb(0, 0, 0);    
+    border: 1px solid rgb(0, 0, 0);    
     background-color: #fff200;    
     height: 150px;                    
   }
